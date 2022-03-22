@@ -11,8 +11,8 @@ function staticLoadPlaces() {
         {
             name: 'Pokèmon',
             location: {
-                 lat: 35.27858,
-                 lng: -120.66471,
+                 lat: 35.27927,
+                 lng: -120.66312,
             },
         },
     ];
@@ -26,7 +26,7 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: './assets/articuno/pinetree.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
         info: 'Articuno, Lv. 80, HP 100/100',
