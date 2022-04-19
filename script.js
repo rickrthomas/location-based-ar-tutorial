@@ -37,6 +37,12 @@ var models = [
         rotation: '0 180 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
+    {
+        url: './assets/skull/scene.gltf',
+        scale: '0.08 0.08 0.08',
+        rotation: '0 180 0',
+        info: 'skull, Lv. 99, HP 150/150',
+    },
 ];
 
 var modelIndex = 0;
