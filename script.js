@@ -24,6 +24,7 @@ var models = [
         scale: '0.001 0.001 0.001',
         info: 'Magnemite, Lv. 5, HP 10/10',
         rotation: '0 180 0',
+        position: '1'
     },
     {
         url: './assets/articuno/pinetree.gltf',
